@@ -1,0 +1,259 @@
+Aller, Schleusenkanal Bannetze
+Aller, Schleusenkanal Hademstorf
+Aller, Schleusenkanal Marklendorf
+Aller, Schleusenkanal Oldau
+Berlin-Spandauer Schifffahrtskanal, Charlottenburger Verbindungskanal (zur Spree)
+Berlin-Spandauer Schifffahrtskanal, Hauptstrecke
+Berlin-Spandauer Schifffahrtskanal, Westhafen-Verbindungskanal
+Berlin-Spandauer Schifffahrtskanal, Westhafenkanal
+Dahme-Wasserstraße, Fluss-/Kanalstrecke Storkower Gewässer [Scharmützelsee, Storkower See, Storkower Kanal, Wolziger See, Langer See]
+Dahme-Wasserstraße, Triebwerkskanal Kummersdorf (ehem.)
+Datteln-Hamm-Kanal, Datteln-Hamm-Kanal
+Dortmund-Ems-Kanal, Altarm Borsum
+Dortmund-Ems-Kanal, Altarm Fresenburg
+Dortmund-Ems-Kanal, Altarm Goldfischdever
+Dortmund-Ems-Kanal, Altarm Herbrum
+Dortmund-Ems-Kanal, Altarm Hilter
+Dortmund-Ems-Kanal, Altarm Lehe
+Dortmund-Ems-Kanal, Altarm oberhalb Haren
+Dortmund-Ems-Kanal, Altarm Roheide Ost
+Dortmund-Ems-Kanal, Altarm Roheide West
+Dortmund-Ems-Kanal, Altarm Sustrum
+Dortmund-Ems-Kanal, Altarm unterhalb Haren
+Dortmund-Ems-Kanal, Altarm Vellage
+Dortmund-Ems-Kanal, Altarm Versen Ost
+Dortmund-Ems-Kanal, Altarm Versen West
+Dortmund-Ems-Kanal, Altarm Walchum
+Dortmund-Ems-Kanal, Altkanal Ems-Hase-Kanal Hanekenfähr
+Dortmund-Ems-Kanal, Altkanal Ems-Hase-Kanal Meppen
+Dortmund-Ems-Kanal, Altstrecke altes Schiffshebewerk Henrichenburg
+Dortmund-Ems-Kanal, Altstrecke Bergeshövede
+Dortmund-Ems-Kanal, Altstrecke Fuestrup
+Dortmund-Ems-Kanal, Altstrecke Hanekenfähr
+Dortmund-Ems-Kanal, Altstrecke Lüdinghausen
+Dortmund-Ems-Kanal, Altstrecke Lüdinghausen-Senden
+Dortmund-Ems-Kanal, Altstrecke Schachtschleuse Henrichenburg
+Dortmund-Ems-Kanal, Altstrecken Olfen
+Dortmund-Ems-Kanal, Erste Fahrt Hiltrup
+Dortmund-Ems-Kanal, Hase-Altarm Meppen (mit Bauhafen)
+Dortmund-Ems-Kanal, Hauptstrecke
+Dortmund-Ems-Kanal, Kanalstrecke km 15,45 bis 15,96 zwischen den unteren Vorhäfen der Schiffshebewerke Henrichenburg
+Dortmund-Ems-Kanal, km 212,3 bis 212,4 positive Fehlstrecke
+Dortmund-Ems-Kanal, km 46,8 N bis 138,2 fünfzehn positive Fehlstrecken
+Dortmund-Ems-Kanal, Seitenkanal Gleesen-Papenburg
+Dortmund-Ems-Kanal, Wehrarm Bollingerfähr
+Dortmund-Ems-Kanal, Wehrarm Düthe
+Dortmund-Ems-Kanal, Wehrarm Herbrum
+Dortmund-Ems-Kanal, Wehrarm Hilter
+Dortmund-Ems-Kanal, Wehrarm Hüntel (Wehr Versen)
+Eider, Sielarm Lexfähre
+Eider, Sielstrecke Nordfeld
+Elbe, Altarm Alte Elbe Mönchsgraben
+Elbe, Altstrecke Ihlekanal bei Niegripp
+Elbe, Einfahrt zum Handelshafen Magdeburg
+Elbe, Schleusenkanal ehem. Doppelschleuse Magdeburg (mit Schutzhafen)
+Elbe, seeartige Erweiterung Mühlenberger Loch (Fahrt zur Este)
+Elbe-Havel-Kanal, Altarm Alter Elbarm bei PVK-km 2,35
+Elbe-Havel-Kanal, Altarm Baggerelbe
+Elbe-Havel-Kanal, Altenplathower Altkanal
+Elbe-Havel-Kanal, Altstrecke Parchau
+Elbe-Havel-Kanal, Altstrecke Parchauer Insel
+Elbe-Havel-Kanal, Altstrecke Seedorf bei EHK-km 356,25
+Elbe-Havel-Kanal, Bergzower Altkanal
+Elbe-Havel-Kanal, Flussstrecke Wasserstraße Kl. Wendsee-Wusterwitzer See
+Elbe-Havel-Kanal, Hauptstrecke
+Elbe-Havel-Kanal, Nebenarm Vogelschutzinsel
+Elbe-Havel-Kanal, Neuderbener Altarm
+Elbe-Havel-Kanal, Niegripper Altkanal
+Elbe-Havel-Kanal, Niegripper Verbindungskanal (zur Elbe)
+Elbe-Havel-Kanal, Pareyer Verbindungskanal (zur Elbe)
+Elbe-Havel-Kanal, Roßdorfer Altkanal
+Elbe-Havel-Kanal, Wehrarm Zerben
+Elbe-Havel-Kanal, Woltersdorfer Altkanal
+Elbe-Lübeck-Kanal, Hauptstrecke
+Elbe-Lübeck-Kanal, Wehrarm Büssau
+Elbe-Lübeck-Kanal, Wehrarm Lauenburg
+Elbe-Seitenkanal, Elbe-Seitenkanal
+Elisabethfehnkanal, Elisabethfehnkanal
+Ems-Jade-Kanal, Auslasskanal Mariensiel
+Ems-Jade-Kanal, Hauptstrecke
+Ems-Seitenkanal, Ems-Seitenkanal
+Freiburger Hafenpriel, Freiburger Hafenpriel
+Fulda, Kraftwerkskanal Linker Mühlengraben Guxhagen
+Fulda, Kraftwerkskanal Mühlengraben Hann. Münden
+Fulda, Kraftwerkskanal Mühlenstrom Kassel
+Fulda, Kraftwerkskanal Rotenburg
+Fulda, Oberer Kraftwerkskanal Speele (ehem.)
+Gieselaukanal (Verbindungskanal), Gieselaukanal (Verbindungskanal)
+Havel-Oder-Wasserstraße, Altarm Dorfgraben
+Havel-Oder-Wasserstraße, Altstrecke Kanalbrücke Eberswalde Ost
+Havel-Oder-Wasserstraße, Altstrecke Kanalbrücke Eberswalde West
+Havel-Oder-Wasserstraße, Auslasskanal Pinnow
+Havel-Oder-Wasserstraße, Finowkanal
+Havel-Oder-Wasserstraße, Fluss-/Kanalstrecke Werbelliner Gewässer [Werbellinsee, Werbellinkanal, Rosenbecker See, Pechteichsee]
+Havel-Oder-Wasserstraße, Malzer Kanal (bei Malz)
+Havel-Oder-Wasserstraße, Mäckerseekanal [Mäckersee]
+Havel-Oder-Wasserstraße, Nebenarm Mühlengraben
+Havel-Oder-Wasserstraße, Oranienburger Kanal
+Havel-Oder-Wasserstraße, Pinnower See-Einfahrt
+Havel-Oder-Wasserstraße, Veltener Stichkanal
+Havel-Oder-Wasserstraße, Verbindungskanal Hohensaaten Ost (zur Oder)
+Havel-Oder-Wasserstraße, Verbindungskanal Schwedter Querfahrt (zur Oder)
+Havel-Oder-Wasserstraße, Wehrarm Heegermühle (Mühlengraben)
+Havelkanal, Havelkanal
+Hunte, Altarm Hollersiel
+Küstenkanal, Hauptstrecke
+Küstenkanal, Stichkanal Dörpen
+Lahn, Kraftwerkskanal Ahl
+Lahn, Kraftwerkskanal Am Brückenturm Limburg (z.T. unterirdisch)
+Lahn, Kraftwerkskanal Am Katzenturm Limburg
+Lahn, Kraftwerkskanal Brückenmühle
+Lahn, Kraftwerkskanal Cramberg (unterirdisch)
+Lahn, Kraftwerkskanal Fürfurt
+Lahn, Kraftwerkskanal Hollerich (unterirdisch)
+Lahn, Kraftwerkskanal Kalkofen
+Lahn, Kraftwerkskanal Kirchhofsmühle
+Lahn, Kraftwerkskanal Kirschhofen
+Lahn, Kraftwerkskanal Nievern (z.T. unterirdisch)
+Lahn, Kraftwerkskanal Oberbiel
+Lahn, Kraftwerkskanal Obermühle Limburg
+Lahn, Schleusenkanal Balduinstein (ehem.)
+Lahn, Schleusenkanal Hohenrhein (ehem.)
+Lahn, Schleusenkanal Lahnstein (ehem.)
+Lahn, Triebwerkskanal Mühle Hausertor
+Lahn, Triebwerkskanal Mühlengraben Runkel
+Lahn, Triebwerkskanal Mühlengraben Villmar
+Lahn, Triebwerkskanal Naunheim (ehem.)
+Lahn, Umflutkanal Flutgraben Wetzlar
+Lahn, Umflutkanal Zirkuliergraben
+Leine, Ihme und Schneller Graben, Hauptstrecke
+Leine, Ihme und Schneller Graben, Kraftwerkskanal Ernst-August-Kanal
+Leine, Ihme und Schneller Graben, Nebenarm Mühlenarm Neustadt a. Rbge.
+Leine, Ihme und Schneller Graben, Schleusenkanal Neustadt a. Rbge. positive Fehlstrecke
+Leine, Ihme und Schneller Graben, Wehrarm Neustadt a. Rbge.
+Main, Umflutkanal Faulbacher Flutgraben
+Main-Donau-Kanal, Altarm bei Pautzfeld
+Main-Donau-Kanal, Altarm Kastlhof
+Main-Donau-Kanal, Altkanal Ludwig-Donau-Main-Kanal
+Main-Donau-Kanal, Altstrecke Alter Werkkanal
+Main-Donau-Kanal, Hauptstrecke
+Main-Donau-Kanal, Kraftwerkskanal Hirschaid
+Main-Donau-Kanal, Pumpwerkskanal Neuessing
+Main-Donau-Kanal, Wehrarm Forchheim
+Main-Donau-Kanal, Wehrstrecke Kelheim
+Main-Donau-Kanal, Wehrstrecke Riedenburg
+Mittellandkanal, Auslasskanal zur Leine
+Mittellandkanal, Erste Fahrt Minden
+Mittellandkanal, Erste Fahrt Rothensee mit Schiffshebewerk
+Mittellandkanal, Erste Fahrt Seelze
+Mittellandkanal, Hauptstrecke
+Mittellandkanal, km 179,85 bis 231,85 fünf positive Fehlstrecken
+Mittellandkanal, Rothenseer Verbindungskanal mit Schiffsschleuse (zur Elbe)
+Mittellandkanal, Stichkanal Hannover-Linden
+Mittellandkanal, Stichkanal Hildesheim
+Mittellandkanal, Stichkanal Ibbenbüren
+Mittellandkanal, Stichkanal Misburg
+Mittellandkanal, Stichkanal Osnabrück
+Mittellandkanal, Stichkanal Salzgitter
+Mittellandkanal, Verbindungskanal Nord zur Weser
+Mittellandkanal, Verbindungskanal Süd zur Weser
+Mittellandkanal, Verbindungskanal zur Leine
+Müritz-Elde-Wasserstraße, Fluss-/Kanalstrecke Stör-Wasserstraße [Schweriner See (Außensee, Paulsdammkanal, Innensee), Stör, Störkanal]
+Müritz-Elde-Wasserstraße, Kraftwerkskanal Hechtsfort
+Müritz-Elde-Wasserstraße, Kraftwerkskanal Neustadt-Glewe
+Müritz-Elde-Wasserstraße, Verbindungskanal Elde-Dreieck
+Müritz-Elde-Wasserstraße, Wehrarm Banzkow (Mühlengraben)
+Müritz-Elde-Wasserstraße, Ziegelsee [Wickendorfer Kanal/Langer Graben, Werderkanal, Heidensee, Stangengraben]
+Müritz-Havel-Wasserstraße, Bolter Kanal
+Müritz-Havel-Wasserstraße, Dollgowsee [Dollgowkanal]
+Müritz-Havel-Wasserstraße, Fluss-/Kanalstrecke Rheinsberger Gewässer [Kl. Pälitzsee Südteil, Wolfsbrucher Kanal, Tietzowsee, Schlabornsee, Gr. Rheinsberger See, Grienericksee]
+Müritz-Havel-Wasserstraße, Flussstrecke Zechliner Gewässer [Schwarzer See, Gr. Zechliner See, Repenter Kanal, Zootzensee, Zootzenkanal]
+Neckar, Kanalstrecke Hammerkanal (Abzweigungsstrecke)
+Neckar, Kraftwerkskanal Feudenheim
+Neckar, Kraftwerkskanal Heilbronn
+Neckar, Kraftwerkskanal Helmreich
+Neckar, Kraftwerkskanal Oberesslingen
+Neckar, Kraftwerkskanal Pleidelsheim
+Neckar, Kraftwerkskanal Schwabenheim
+Neckar, Kraftwerkskanal und Nebenarm Altbach
+Neckar, Kraftwerkskanal Untertürkheim
+Neckar, Nebenarm Heilbronn (einschl. Wilhelmskanal)
+Nord-Ostsee-Kanal, Auslasskanal Entwässerungskanal Holtenau
+Nord-Ostsee-Kanal, Borgstedter See mit Enge
+Nord-Ostsee-Kanal, Erste Fahrt Alte Schleusen Brunsbüttel
+Nord-Ostsee-Kanal, Erste Fahrt Alte Schleusen Holtenau
+Nord-Ostsee-Kanal, Flemhuder See
+Nord-Ostsee-Kanal, Hauptstrecke
+Nord-Ostsee-Kanal, Stichkanal Achterwehrer Schifffahrtskanal
+Nord-Ostsee-Kanal, Wehrarm Strohbrück
+Obere Havel-Wasserstraße, Fluss-/Kanalstrecke Templiner Gewässer [Zaarsee, Fährsee, Bruchsee, Templiner See, Templiner Kanal, Röddelinsee, Kl. Lankensee, Kuhwallsee, Templiner Wasser]
+Obere Havel-Wasserstraße, Fluss-/Kanalstrecke Wentow-Gewässer [Kl. und Gr. Wentowsee, Wentowkanal]
+Obere Havel-Wasserstraße, Kanalstrecke MzK-km 46,90 (= OHW-km 0,00) bis 43,95 [Malzer Kanal]
+Obere Havel-Wasserstraße, Schleusenkanal Bredereiche (ehem.)
+Obere Havel-Wasserstraße, seeartige Erweiterung Fahrt nach Tornow und Tornowfließ
+Obere Havel-Wasserstraße, Seenebenarm Ratz in der Fahrt nach Tornow
+Obere Havel-Wasserstraße, Verbindungsstrecke Nesselpfuhlgraben (Lychen)
+Oder, Brieskower See-Einfahrt
+Ostsee, Poel, Wismar Zufahrt
+Rhein-Herne-Kanal, Altstrecken Emscher
+Rhein-Herne-Kanal, Hauptstrecke
+Rhein-Herne-Kanal, Verbindungskanal zur Ruhr
+Ruhr, Kraftwerkskanal Raffelberg (Abzweigungsstrecke)
+Rüdersdorfer Gewässer, Nebenarm mit Schifffahrtstunnel
+Rüdersdorfer Gewässer, Stichkanal Langerhanskanal [Kriensee]
+Saale, Durchstich Umgehungskanal Halle
+Saale, Durchstich Umgehungskanal Merseburg
+Saale, Kraftwerkskanal Turbinengraben Wettin
+Saale, Triebwerkskanal Bernburg
+Saale, Triebwerkskanal Meuschau
+Saale, Triebwerkskanal Mühlengraben Böllberg
+Saale-Leipzig-Kanal, Saale-Leipzig-Kanal
+Schifffahrtsweg Rhein-Kleve, Flussstrecke Griethauser Altrhein Griethausen - SRK
+Schifffahrtsweg Rhein-Kleve, Hauptstrecke
+Spree-Oder-Wasserstraße, Alter Schleusenkanal Charlottenburg (ab unterer Trenndammspitze der neuen Schleuse)
+Spree-Oder-Wasserstraße, Brieskower Kanal
+Spree-Oder-Wasserstraße, Dehmsee-Einfahrt
+Spree-Oder-Wasserstraße, Fluss-/Kanalstrecke Wasserstraße Seddinsee und Gosener Kanal
+Spree-Oder-Wasserstraße, Flussstrecke Gosener Graben
+Spree-Oder-Wasserstraße, Kersdorfer See-Einfahrt
+Spree-Oder-Wasserstraße, Landwehrkanal
+Spree-Oder-Wasserstraße, Nebenarm Frauentog und Kietzgraben Köpenick
+Spree-Oder-Wasserstraße, Pumpwerkskanal Neuhauser Speisekanal
+Spree-Oder-Wasserstraße, Pumpwerkskanal Speisekanal Eisenhüttenstadt
+Spree-Oder-Wasserstraße, Spreekanal [Kupfergraben]
+Spree-Oder-Wasserstraße, Wehrarm Oberschleuse/Flutgraben
+Spree-Oder-Wasserstraße, Wehrarm Unterschleuse/Flutgraben
+Teltowkanal, Britzer Verbindungskanal (zur Spree)
+Teltowkanal, Griebnitzkanal [Stölpchensee, Pohlesee, Kl. Wannsee]
+Teltowkanal, km (-) 0,55 bis 0,00 [Glienicker Lake]
+Teltowkanal, km 0,00 bis 37,84 [Griebnitzsee, Kleinmachnower See]
+Teltowkanal, Zehlendorfer Stichkanal
+Trave, Nebenarm Stadtgraben in Lübeck
+Untere Havel-Wasserstraße (Plaue - Elbe), Altarm Neuer Graben
+Untere Havel-Wasserstraße (Plaue - Elbe), Fluss-/Kanalstrecke Hohennauener Wasserstraße [Ferchersarer See, Hohennauener See, Hohennauener Kanal]
+Untere Havel-Wasserstraße (Plaue - Elbe), Flussstrecke Rathenower Havel [Rathenower Schleusenkanal/Stadtkanal]
+Untere Havel-Wasserstraße (Plaue - Elbe), km 131,30 bis 131,85 (Schleusenkanal Garz) positive Fehlstrecke
+Untere Havel-Wasserstraße (Plaue - Elbe), Triebwerkskanal Mühlenarm
+Untere Havel-Wasserstraße (Spandau - Plaue), Brandenburger Stadtkanal
+Untere Havel-Wasserstraße (Spandau - Plaue), Flussstrecke Wublitz [Schlänitzsee ohne Fahrwasser des Sacrow-Paretzer Kanals]
+Untere Havel-Wasserstraße (Spandau - Plaue), Nebenarm Alte Fahrt
+Untere Havel-Wasserstraße (Spandau - Plaue), Nebenarm Nedlitzer Alte Fahrt
+Untere Havel-Wasserstraße (Spandau - Plaue), Triebwerkskanal Altstädtischer (3.) Mühlenarm (ehem.)
+Untere Havel-Wasserstraße (Spandau - Plaue), Triebwerkskanal Domstreng (2. Mühlenarm) (ehem.)
+Untere Havel-Wasserstraße (Spandau - Plaue), Triebwerkskanal Neustädtischer Streng (1. Mühlenarm, Näthewinde)(ehem.)
+Warnow, Altarm Bleichergraben
+Warnow, Altarm Fischergraben
+Werra, Kraftwerkskanal Haarlache-Eschwege
+Werra, Kraftwerkskanal Mühlenarm Hann. Münden
+Werra, Kraftwerkskanal Mühlengraben Falken
+Werra, Kraftwerkskanal Mühlengraben Hedemünden
+Werra, Kraftwerkskanal Wanfried
+Wesel-Datteln-Kanal, Wesel-Datteln-Kanal
+Weser, Kraftwerkskanal (ehem. Kleine Schleuse Hameln)
+Weser, Nebenarm Mühlengraben Bodenwerder
+Weser, Schleusenkanal Drakenburg
+Weser, Schleusenkanal Dörverden
+Weser, Schleusenkanal Landesbergen
+Weser, Schleusenkanal Langwedel
+Weser, Schleusenkanal Petershagen
+Weser, Schleusenkanal Schlüsselburg

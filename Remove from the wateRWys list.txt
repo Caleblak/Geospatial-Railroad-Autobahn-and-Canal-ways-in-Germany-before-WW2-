@@ -1,0 +1,54 @@
+Altmühl, Altmühl
+Elbe-Seitenkanal, Elbe-Seitenkanal
+Havelkanal, Havelkanal
+Main-Donau-Kanal, Altarm bei Pautzfeld
+Main-Donau-Kanal, Altarm Kastlhof
+Main-Donau-Kanal, Altkanal Ludwig-Donau-Main-Kanal
+Main-Donau-Kanal, Altstrecke Alter Werkkanal
+Main-Donau-Kanal, Hauptstrecke
+Main-Donau-Kanal, Kraftwerkskanal Hirschaid
+Main-Donau-Kanal, Pumpwerkskanal Neuessing
+Main-Donau-Kanal, Wehrarm Forchheim
+Main-Donau-Kanal, Wehrstrecke Kelheim
+Main-Donau-Kanal, Wehrstrecke Riedenburg
+Mosel, Altarm Nehren
+Mosel, Altarm Taubengrün
+Mosel, Altarm Winningen
+Mosel, Hauptstrecke
+Mosel, Nebenarm Hatzenport
+Mosel, Nebenarm Lehmen
+Mosel, Nebenarm Pfalzel-Ehrang
+Mosel, Nebenarm Treis
+Mosel, Nebenarm Trier
+Mosel, Nebenarm Zell
+Mosel, Nebenarm Ürzig
+Mosel, Wehrarm Detzem
+Mosel, Wehrstrecke Enkirch
+Mosel, Wehrstrecke Fankel
+Mosel, Wehrstrecke Grevenmacher
+Mosel, Wehrstrecke Koblenz
+Mosel, Wehrstrecke Lehmen
+Mosel, Wehrstrecke Müden
+Mosel, Wehrstrecke Palzem
+Mosel, Wehrstrecke St. Aldegund
+Mosel, Wehrstrecke Trier
+Mosel, Wehrstrecke Wintrich
+Mosel, Wehrstrecke Zeltingen
+Regnitz, Flussstrecke linker Regnitzarm Bamberg
+Regnitz, Hauptstrecke
+Saar, Altarm Ensdorf
+Saar, Altarm Saarbrücken Stadenanlage
+Saar, Altarm Schwemlingen
+Saar, Altarm Wadgassen
+Saar, Flussstrecke Nied (Mündungsstrecke) mit Altarm
+Saar, Km 94,06 (= lothr. km 75,62) bis 0,00
+Saar, lothr. km 64,98 re bis 75,62 li (Grenzstrecke mit Frankreich)
+Saar, Wehrarm Kleinblittersdorf
+Saar, Wehrarm Rilchingen-Hanweiler
+Saar, Wehrarm Schoden (Wiltinger Bogen)
+Saar, Wehrstrecke Güdingen
+Saar, Wehrstrecke Lisdorf
+Saar, Wehrstrecke Mettlach
+Saar, Wehrstrecke Rehlingen
+Saar, Wehrstrecke Saarbrücken
+Saar, Wehrstrecke Serrig
